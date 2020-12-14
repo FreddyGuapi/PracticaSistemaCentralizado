@@ -1,0 +1,7 @@
+com\mycompany\sistemadistribuido\Producto_.class
+com\mycompany\sistemadistribuido\controladores\exceptions\NonexistentEntityException.class
+com\mycompany\sistemadistribuido\Producto.class
+com\mycompanuy\sistemadistribuido\principal\Text.class
+com\mycompany\sistemadistribuido\controladores\exceptions\IllegalOrphanException.class
+com\mycompany\sistemadistribuido\controladores\ProductoJpaController.class
+com\mycompany\sistemadistribuido\controladores\exceptions\PreexistingEntityException.class
